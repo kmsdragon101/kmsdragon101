@@ -1,0 +1,45 @@
+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
+
+React_________________
+
+https://geolite.mobi
+https://celltact.com
+https://www.vipealo.com/
+https://coins.bitbitbitbit.com/
+https://www.hometown.in/
+http://www.mercadolivre.com.br
+
+BlockChain______________
+https://app.moonrat.finance/#/dashboard
+
+-----------Shop Site-------------------------------
+https://www.chewy.com/ (pet shop)
+https://portefini.com/ (clothes shop)
+https://djob.ch/ (service site)
+https://www.edx.org/ (learning site)
+https://www.letsbuild.com/ (building service)
+https://www.dineorder.com/ (Food Portal)
+
+-------------Djang&Python------------------------
+https://ekagroup.com/en/ (Django)
+corporate employee testing platform - https://beejee.org/metatest(Python)
+internet platform for Russian scientific society - https://beejee.org/profrum.(Python)
+	
+--------------MERN----------------------------------------------------------
+https://remitradar.com/
+https://borrowen.com/
+https://www.lotolion.ru/ (Angular)
+https://calahex.com (React/Redux.js, Laravel)
+https://telmie.com (React, Laravel)
+https://www.africunia.org( Vue, Ruby on Rails)
+https://homestaymatch.com (Vue, Laravel)
+https://wedo.lu (Laravel, Vuejs, Nuxt, Elasticsearch, Redis)
+https://map.gital.ca GPS tracking service (Java spring, JPA, Vuejs, Redis)
+https://vervoe.com (MERN stack)
+https://reverb.com/ (Ruby on Rails + React)
+
+----------------PHP-------------------------------------------
+http://www.hyperhost.pt (PHP)
+https://heckenschnitt.com (Wordpress)
+https://successfulaustralia.com (Laravel, Stripe/Paypal API, Google API)
+https://beta.stadissa.fi (PHP)	

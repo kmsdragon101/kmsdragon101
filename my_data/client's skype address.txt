@@ -17,6 +17,8 @@
 - revit dev
   	https://www.freelancer.com/u/SandeepKalkal
 
+-structural engineer
+	https://www.freelancer.com/u/Sulaiman94
 -Sketchup, exterior dev
 	name: SURENDRA VERMA
 	skype: surendra.verma49
@@ -45,6 +47,19 @@
 	skype: rockyalam.freelancer
 	country: egypt
 
+-WordPress dev
+	name1: Hung Le
+	skype1: strong_eit
+	name2: Tuyet Nhung
+	skype2: live:f047f56f11f20c17
+
+-Python, C/C++, React dev
+	kimphuong589@gmail.com
+	P4uwowng#20236
+	https://www.freelancer.com/u/kimphuong589
+	skype: kimphuong589
+	phone: +841696220363
+
 #############Clients#####################
 -Name: Matthew Ho
 	Country: Hong Kong
@@ -59,6 +74,7 @@
 	what's app: +85262734642
 	skype: live:mho.envirohk
 	sister's birth: 11 Dec 2002
+
 - David(D J)
 	country: USA
 	skype: live:sneakin533
@@ -90,11 +106,11 @@
 	
 
 #############Accounts#####################
--Pham Quyen: live:.cid.60002bea00f327c1
-
 - freelancer.com: live:.cid.b768165b17ae9896
+https://www.freelancer.com/u/Sulaiman94
 
 -Tran_Cuong
+	cuong.tm.sw@gmail.com
 	skype: cuong.tm.sw
 	phone: +84913221234
 ==============================================
@@ -103,6 +119,7 @@
 	husband: https://www.freelancer.com/u/sn102a1k46
 	 phone:  +84354343456 
 	address: Ho Chi Minh Sofitel Saigon Plaza, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Vietnam
+
 ==============Texas on USA stamped freelancer=========
 https://www.freelancer.com/u/scottstafford9
 https://www.freelancer.com/u/alvinrasmus
@@ -121,3 +138,11 @@ HNI2023@
 ==========sketchup model site=================================
 viktor.alekseevich0807@mail.ru
 Qwertybanana1!
+
+ksi skype--
+Gabriel Reid
+live:.cid.79c417bbc103e8e9
+
+
+==================Chealson skype=================================
+live:.cid.1b7fefad623ab2c7
